@@ -1,0 +1,12 @@
+{
+  "name": "photo-booth-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
